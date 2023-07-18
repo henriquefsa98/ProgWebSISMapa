@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "typescript": "^5.1.6"
+  },
+  "name": "progwebsismapa",
+  "description": "Esse template está configurado para criar um ambiente com as principais dependências que precisamos na aula. Para criar um novo projeto no ambiente:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
