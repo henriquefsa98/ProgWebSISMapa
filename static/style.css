@@ -53,23 +53,6 @@ path:hover{
     transition: fill 0.4s;
 }
 
-.tooltip{
-    pointer-events: none;
-    position: absolute;
-    font-size: 18px;
-    text-align: center;
-    background-color: white;
-    padding: 10px 15px;
-    z-index: 5;
-    height: 30px;
-    line-height: 30px;
-    margin: 0 auto;
-    color: #21669e;
-    border-radius: 5px;
-    transform: translateX(-50%);
-    display: none;
-}
-
 .tooltip {
     pointer-events: none;
     position: absolute;
@@ -81,7 +64,7 @@ path:hover{
     height: 30px;
     line-height: 30px;
     margin: 0 auto;
-    color: #21669e;
+    /*color: #21669e;*/
     border-radius: 5px;
     transform: translateX(-50%);
     display: none;
